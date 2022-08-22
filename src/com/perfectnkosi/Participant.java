@@ -1,5 +1,9 @@
 package com.perfectnkosi;
 
+/**
+* @author Perfect NKosi__Codingd-dude
+*/
+
 public class Participant {
     private int participantNumber;
     private String participantFirstName;
