@@ -1,5 +1,9 @@
 package com.perfectnkosi;
 
+/**
+* @author Perfect NKosi__Codingd-dude
+*/
+
 public class Main {
     public static void main(String[] args) {
         final int MAX_PARTICIPANTS = 1;
