@@ -4,6 +4,10 @@ import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+* @author Perfect NKosi__Codingd-dude
+*/
+
 public class Functions {
     public static void enterParticipantDetails(Participant[] participants, int numberOfParticipants) {
 //        if (numberOfParticipants != 3) {
